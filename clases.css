@@ -19,11 +19,11 @@
   margin-bottom: 10px solid #fff;
   background: #88839e;
   cursor: pointer;
-  border-bottom: solid #fff;
 }
 .divo:hover {
   transform: scale(1.05);
   background: #5b586f;
+  border-bottom: solid #fff;
 }
 
 .box {
